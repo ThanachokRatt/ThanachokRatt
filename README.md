@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Todoey Project using Core Data**
+- 🔭 I’m currently working on metalSheet Project this is my Final project **
 
-- 🌱 I’m currently learning **Swift(Storyboard,SwiftUI)**
+- 🌱 I’m currently learning **Swift(Rxswift,ObjectMapper,Firebase)**
 
 - 📫 How to reach me **thanachok.ratt@gmail.com**
 
