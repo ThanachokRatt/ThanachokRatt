@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on metalSheet Project this is my Final project **
+- 🔭 I’m currently working on metalSheet Project this is my Flutter project **
 
 - 🌱 I’m currently learning **Flutter**
 
