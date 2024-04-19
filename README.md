@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on metalSheet Project this is my Final project **
 
-- 🌱 I’m currently learning **Swift(Rxswift,ObjectMapper,Firebase)**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **thanachok.ratt@gmail.com**
 
