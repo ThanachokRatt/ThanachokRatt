@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on metalSheet Project this is my Flutter project **
+- 🔭 I’m currently working on metalSheet Project this is my Flutter and Swift project **
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Swift**
 
 - 📫 How to reach me **thanachok.ratt@gmail.com**
 
